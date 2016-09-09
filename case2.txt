@@ -1,0 +1,3 @@
+1.First enter denominator then numerator.
+2.Equations must be enclosed within brackets.
+3.Coefficient and power must be mentioned e.g (1x^0 , 2x^1 etc).

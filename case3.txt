@@ -1,0 +1,2 @@
+1.First enter trignometric function with power.Power must be mentioned even if it is one e.g (sin^1 , cos^2, tan^3 etc).
+2.Then enter the angle.The angle must be enclosed in brackets.
